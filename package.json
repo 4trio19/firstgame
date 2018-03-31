@@ -1,0 +1,23 @@
+{
+  "name": "firstgame",
+  "version": "1.0.0",
+  "description": "\"# firstgame\"",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --port 7777 --browser \"C:\\Program Files\\Firefox Developer Edition\\firefox.exe\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4trio19/firstgame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4trio19/firstgame/issues"
+  },
+  "homepage": "https://github.com/4trio19/firstgame#readme"
+}

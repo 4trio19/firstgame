@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "hitman1_gun.png",
+	"frame": {"x":0,"y":0,"w":49,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":43},
+	"sourceSize": {"w":49,"h":43}
+},
+{
+	"filename": "hitman1_hold.png",
+	"frame": {"x":49,"y":0,"w":35,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":43},
+	"sourceSize": {"w":35,"h":43}
+},
+{
+	"filename": "hitman1_machine.png",
+	"frame": {"x":84,"y":0,"w":49,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":43},
+	"sourceSize": {"w":49,"h":43}
+},
+{
+	"filename": "hitman1_reload.png",
+	"frame": {"x":133,"y":0,"w":39,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":43},
+	"sourceSize": {"w":39,"h":43}
+},
+{
+	"filename": "hitman1_silencer.png",
+	"frame": {"x":172,"y":0,"w":54,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":43},
+	"sourceSize": {"w":54,"h":43}
+},
+{
+	"filename": "hitman1_stand.png",
+	"frame": {"x":226,"y":0,"w":33,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":43},
+	"sourceSize": {"w":33,"h":43}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hitman.png",
+	"format": "RGBA8888",
+	"size": {"w":259,"h":43},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e1802dcbda2e8697d0a46208712e9602:d89a4d856f2e937a64322338d8d15cbf:f9ef275dab963d5d765193f7e6fa4025$"
+}
+}
